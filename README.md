@@ -32,10 +32,4 @@ Um pouco mais sobre mim: <br>
 </br>
 </div>
 
-<div align="center" valign="top"><br>
-
-![Snake animation](https://github.com/stephanilino/stephanilino/blob/output/github-contribution-grid-snake.svg)
-
-</br>
-
 <img align="right" alt="github" height="180" width="180" src="https://cdn.discordapp.com/attachments/738939478722216027/1108905756503318619/Simple_Black_and_White_Text_Instagram_Post1.gif">
